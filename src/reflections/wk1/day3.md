@@ -1,4 +1,4 @@
-# Day 3 - Html/Css
+# Day 3 - Cheating at Web Design
 
 What I learned today...
 
