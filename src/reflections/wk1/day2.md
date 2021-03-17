@@ -2,6 +2,10 @@
 
 What I learned today...
 
+Daily Challenge:
+https://github.com/LoganPonder/cool-site
+ https://loganponder.github.io/cool-site/.
+
 ### 1. What is a Pseudo-Class and what are some of the most common ones you think you will use
 
 A Pseudo-Class is a keyword/class that is added to the end of an element in CSS, describing the 'state' of a certain element within an application. For example, the most common one I have used is the :hover Pseudo-Class. When a certain element is hovered over by a user, it could do something as simple as changing the cursor to pointer; or it could trigger some sort of function/interactive user experience.
