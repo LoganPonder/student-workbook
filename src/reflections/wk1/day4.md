@@ -1,5 +1,9 @@
 # Day 4 - WireFrames
 
+What I learned today...
+
+John Deere Clone: 
+
 ### 1. What is the purpose of wire-framing?
     
 Wire frames allow a designer/team of designers to create mock-ups of what a potential application might look like. Taking into account design elements, user interaction, ect. It also provides an opportunity for developers to bounce ideas and receive feedback from clients prior to the actual development of an application.

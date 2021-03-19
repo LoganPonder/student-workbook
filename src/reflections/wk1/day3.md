@@ -2,6 +2,10 @@
 
 What I learned today...
 
+Bootstrap Clone: 
+https://github.com/LoganPonder/boot-clone
+https://loganponder.github.io/boot-clone/
+
 ### 1. What is your favorite tip that you think is the most beneficial to improving your design?
 
 One of the tips I thought was interesting was to not color every background on buttons. I've always had the notion that buttons should always have some kind of color that goes along with the theme of the page. In the future I can spend more time thinking about the visual hierarchy of the page so that I can move away from feeling the need to color every button. In addition, I think having buttons with perhaps just an outline adds a cleaner, more modern aesthetic to the page.
