@@ -2,7 +2,7 @@
 
 What I learned today...
 
-John Deere Clone: 
+John Deere Clone: https://github.com/LoganPonder/John-Deere-Clone
 
 ### 1. What is the purpose of wire-framing?
     
