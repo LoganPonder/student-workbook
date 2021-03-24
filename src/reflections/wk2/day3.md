@@ -1,5 +1,11 @@
 # Day - 3 
 
+## Projects: 
+
+https://loganponder.github.io/Rock-Paper-Scissors-Lizzard-Spock/
+
+https://github.com/LoganPonder/Rock-Paper-Scissors-Lizzard-Spock
+
 ### What are the main ways to write information to the console? Why/when should  you use each style.
 Loggin things the console can be valuable tool while trying to debug your code, or understand what a value might be at any give time. Often the most popular, console.log() utlizies the area where errors are written, same as with console.error(). Console.table(), as it's name suggest can present date in a more table like format allowing for easy viewing/understanding.
 
