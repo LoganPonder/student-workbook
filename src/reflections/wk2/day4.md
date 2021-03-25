@@ -2,6 +2,8 @@
 
 ## Projects: 
 
+https://github.com/LoganPonder/day4-afternoon-challenge
+
 ### What are the benefits of making a plan before starting to just write the code?
 
 Taking the extra time to make a detailed plan can provide a huge advantage when writing a program. It allows a developer to think about the logic in detail, as well as how a user might interact with the program. It gives the developer a chance to think about what might go wrong, and account/write test for that specific program. 
