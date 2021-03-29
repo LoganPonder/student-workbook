@@ -1,6 +1,8 @@
 # Day 1 / W2 - Intro to JavaScript
 
-Daily Journal....
+Daily Projects: https://github.com/LoganPonder/js-day-1
+
+Daily Journal...
 
 ### What is Scope ?
 Scope is essentially the "visibility" of variables within a program. And how/where those variables can be accessed.
