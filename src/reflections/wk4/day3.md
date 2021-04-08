@@ -1,5 +1,7 @@
 # Day 3 - W4: Async/Await
 
+### Daily Project: https://github.com/LoganPonder/pokemon-api
+
 ### What is the purpose of Async/Await?
 Async/Await bridges the gap between promises/Asynchronus code. A/A use promises for a easier to understand/visualize code.
 
