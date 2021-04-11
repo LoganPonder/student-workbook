@@ -23,7 +23,7 @@ A higher order function is a function that takes in another function as one of i
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-A promise in Javascript is the "gurantee" that some sort of request has been made, and it will return a result later in the program. A try/catch block, in the catch block, on error, the program can console the error or something similar.
+A promise in Javascript is the "gurantee" that some sort of request has been made, and it will return a result later in the program. A .then()/.catch() block, in the .catch() block, on error, the program can console the error or something similar.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
