@@ -1,5 +1,7 @@
 # Day 1 | W6 Intro to VUE
 
+### Daily Project: Vue Playground
+
 ### What is Component based architecture?
 CBA is a style in which many smaller 'components' of code are pieced together to form a larger, cohesive application.
 
